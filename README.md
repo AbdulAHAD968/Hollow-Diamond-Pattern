@@ -39,7 +39,7 @@ Copy code
 #include<iostream>
 using namespace std;
 
-// ... (your code)
+// ... (code)
 
 int main() {
     int num;
